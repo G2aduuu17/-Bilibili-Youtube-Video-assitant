@@ -385,8 +385,3 @@ See [`SECURITY.md`](SECURITY.md) for credential and privacy guidance.
 
 *密钥与隐私说明请查看 [`SECURITY.md`](SECURITY.md)。*
 
-## License / 许可证
-
-No open-source license has been selected yet. Public visibility allows people to read the source code, but it does not automatically grant permission to reuse, modify, or redistribute it.
-
-*项目目前尚未选择开源许可证。Public 代表代码可以被查看，但不会自动授予他人使用、修改或重新分发代码的权利。*
