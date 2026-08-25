@@ -1,0 +1,43 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# Runtime data: reports may contain source video, audio and user content
+data/
+Project-ML/runs/
+Project-ML/downloads/
+Project-ML/uploads/
+
+# Dependencies and build output
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+.pnpm-store/
+
+# Python environments and caches
+.venv/
+venv/
+**/__pycache__/
+**/.pytest_cache/
+*.py[cod]
+
+# Bundled media tools and large local artifacts
+Project-ML/tools/ffmpeg/
+*.exe
+*.rar
+*.part
+
+# Editors, OS files and agent-local metadata
+**/.idea/
+**/.vscode/
+.agents/
+.codex/
+.DS_Store
+Thumbs.db
+
+# Legacy upstream checkout; the active pipeline is Project-ML/
+video-devour/

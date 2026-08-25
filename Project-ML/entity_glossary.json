@@ -1,0 +1,22 @@
+{
+  "corrections": [
+    {
+      "original": "蓝老",
+      "canonical": "揽佬",
+      "aliases": [
+        "SKAI ISYOURGOD"
+      ],
+      "entity_type": "person",
+      "reason": "项目人工确认：该艺人的规范中文艺名为“揽佬”。"
+    },
+    {
+      "original": "Lil Boi",
+      "canonical": "SKAI ISYOURGOD",
+      "aliases": [
+        "揽佬"
+      ],
+      "entity_type": "person",
+      "reason": "项目人工确认：“Lil Boi”是错误实体关联，揽佬使用的英文艺名为“SKAI ISYOURGOD”。"
+    }
+  ]
+}
