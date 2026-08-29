@@ -82,8 +82,8 @@ The frontend submits tasks through Nginx to FastAPI. The API stores task state i
 
 - Docker Desktop with the Linux Containers / WSL 2 backend enabled.
   *启用 Linux Containers / WSL 2 后端的 Docker Desktop。*
-- A DashScope API key.
-  *阿里云百炼 DashScope API Key。*
+- An API key.
+  *API Key。*
 - Network access to the target video platform and DashScope.
   *能够访问目标视频平台和 DashScope 的网络。*
 - At least 4 CPU cores, 8 GB of memory, and sufficient disk space are recommended.
