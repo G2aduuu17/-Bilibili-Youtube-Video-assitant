@@ -6,14 +6,12 @@ An online-ready AI video understanding system that turns Bilibili, YouTube, othe
 
 > This project is an early, working release. Only process content that you are authorized to access and analyze, and comply with the platform terms and applicable laws.
 >
-> *本项目目前是可运行的早期版本。请只处理你有权访问和分析的内容，并遵守平台条款及所在地法律法规。*
+
 
 ## Highlights / 核心能力
 
 - Accept video URLs and local uploads, with a common task API and report format.
   *支持视频链接和本地上传，并统一任务接口与报告格式。*
-- Prefer existing platform subtitles and automatically fall back to ASR when subtitles are unavailable.
-  *优先使用平台字幕；字幕不可用时自动回退到语音识别。*
 - Keep Fast, Standard, and Detailed modes isolated at the configuration and execution-path levels.
   *在配置和执行链路层面隔离极速、标准和深度三种模式。*
 - Run ASR and frame extraction concurrently, and transcribe audio chunks in parallel in Fast mode.
